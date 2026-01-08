@@ -3,8 +3,13 @@ body {
     text-align: center;
 }
 
-img {
+.carousel {
     width: 90%;
     max-width: 400px;
-    margin: 10px;
+    margin: auto;
+}
+
+.carousel img {
+    width: 100%;
+    border-radius: 10px;
 }
